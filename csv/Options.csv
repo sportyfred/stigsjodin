@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,STADENS POESI,
-Storymap Subtitle, - en vandring till åtta dikter av Stig Sjödin<br><small>Scrolla ner <i class='fa fa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+Storymap Subtitle,,"Add your subtitle, or delete that portion"
 Storymap Logo,https://stigsjodin.files.wordpress.com/2014/01/stig2.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
