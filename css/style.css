@@ -4,8 +4,9 @@ body {
   font-family: "Helvetica", sans-serif;
   overflow: hidden;
 }
-p{
+.poem {
   line-break: auto;
+  text-align: left;
 }
 
 #map {
