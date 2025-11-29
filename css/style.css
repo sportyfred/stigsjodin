@@ -4,6 +4,9 @@ body {
   font-family: "Helvetica", sans-serif;
   overflow: hidden;
 }
+p{
+  line-break: auto;
+}
 
 #map {
   height: 200px;
