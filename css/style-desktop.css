@@ -3,13 +3,13 @@
   #narration {
     width: 60vw;
     height: 100vh;
-    max-width: 500px;
+    max-width: 540px;
     top: 0;
   }
 
   #map {
-    width: calc(100vw - 460px);
-    left: 460px;
+    width: calc(100vw - 540px);
+    left: 540px;
     height: 100vh;
     border: 0;
     z-index: 0;
