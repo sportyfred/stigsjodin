@@ -1,6 +1,6 @@
 Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
 ,media/sspoesivandring.png,En digital vandring till åtta dikter av Stig Sjödin,,,15,Hidden,red,"Konsthallen, Sandviken",60.6208395,16.7802191,,,,
-,media/IMG_7679.jpeg,,,Vi börjar vår vandring utanför Konsthallen.,15,Hidden,red,"Konsthallen, Sandviken",60.6208395,16.7802191,,,,
+,media/IMG_7679.jpeg,,,<p style="text-align:center";>Vi börjar vår vandring utanför Konsthallen.</p>,15,Hidden,red,"Konsthallen, Sandviken",60.6208395,16.7802191,,,,
 Anteckningar från arbetet,media/anteckningar.png,Anteckningar om arbetet ingår i diktsamlingen ”Livets starka smak” (1974). Den finner du på muren vid konsthallens entré.,,"<div class=""poem""><p>Den orangefärgade röken från rostugnen står vackert mot vinterhimlen,
 ett utropstecken som varslar om ekonomisk potens.
 Den påstås vara ofarlig.
@@ -48,3 +48,4 @@ och lät hammaren falla med full kraft – utan att krossa glaset.
 Den känseln i fingrarna skulle kanske gjort honom till kirurg
 eller varför inte urmakare?
 Han var nästa ensam i världen om sitt konststycke.</p></div>",14,3,red,,60.6164424,16.785315,https://mapwarper.net/maps/tile/99367/{z}/{x}/{y}.png,0.7,,
+
