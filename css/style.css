@@ -8,6 +8,7 @@ body {
   line-break: auto;
   text-align: left;
  font-family: Libre Baskerville;
+   white-space: pre-wrap;
 }
 .poem ul, .poem ol
 {
@@ -32,6 +33,7 @@ body {
 .poem p {
   margin-bottom: 15px;
   line-height: 1.45em;
+
 }
 .poem h1,
 .poem h2 {
